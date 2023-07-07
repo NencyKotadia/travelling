@@ -1,0 +1,54 @@
+.section_3{
+    width: 76%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sec_3_1{
+    width: 50%;
+    height: 500px;
+    background-image: url(https://others.org.au/scribe/sites/others.org.au/files/Viewpoint/aaron-burden-7oJ3O6pk10s-unsplash_small.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sec_3_2{
+    width: 50%;
+    height: 500px;
+    padding: 40px;
+    box-sizing: border-box;
+}
+.con_1{
+    margin-top: 50px;
+    font-size: 33px;
+    font-weight: 500;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.con_2{
+    font-size: 21px;
+    text-align: left;
+    margin-bottom: 70px;
+}
+.con_3{
+    display: flex;
+    justify-content: space-around;
+}
+.con_4{
+    display: flex;
+    justify-content: space-around;
+}
+.con_sub_3_1{
+    width: 25%;
+    font-size: 20px;
+    font-weight: 600;
+    color: #AEE6BF;
+    text-align: left;
+    margin-bottom: 5px;
+}
+.con_sub_3_2{
+    width: 25%;
+    text-align: left;
+    font-size: 20px;
+}

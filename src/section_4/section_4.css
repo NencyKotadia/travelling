@@ -1,0 +1,17 @@
+.Section_4{
+    width: 100%;
+    height: 100px;
+    padding-top: 70px;
+    /* background-color: aqua; */
+}
+.sec_4_p1{
+    font-size: 18px;
+    font-weight: 600;
+    color: #AEE6BF;
+    padding-bottom: 5px;
+}
+.sec_4_p2{
+    font-size: 30px;
+    font-weight: 600;
+    /* color: #AEE6BF; */
+}

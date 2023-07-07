@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav_home{
+    background-image: url(https://preview.colorlib.com/theme/vineyard/images/bg_1.jpg.webp);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+}
+.nav_home_sub{
+    width: 100%;
+    height: 100vh;
+    background-color: #aee6bf62;
+}
+.navigation{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding-top: 30px;
+    justify-content: space-between;
+}
+.nav_logo{
+    width: 25%;
+    color: rgba(0, 0, 0, 0.674);
+    font-size: 20px;
+    font-weight: 600;
+}
+.nav_manu{
+    width: 75%;
+    display: flex;
+    margin-top: 4px;
+    color:rgba(0, 0, 0, 0.674);
+    justify-content: space-evenly;
+}
+.manu{
+    display: inline-block;
+}
+.manu:hover{
+    color:gray ;
+    transition: .8s;
+}
+.round{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background-color:rgba(0, 0, 0, 0.674);
+    position: absolute;
+    top: 52%;
+    right: 60%;
+}
+.watch{
+    position: absolute;
+    top: 54.2%;
+    right: 45%;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.674);
+}
+.content_1{
+    font-size: 50px;
+    font-weight: 600;
+    position: absolute;
+    top: 61%;
+    right: 10.5%;
+    color: rgba(0, 0, 0, 0.674);
+}
+.content_2{
+    font-size: 50px;
+    font-weight: 600;
+    position: absolute;
+    top: 69.5%;
+    right: 12%;
+    color: rgba(0, 0, 0, 0.674);
+}
+.content_3{
+    font-size: 50px;
+    font-weight: 600;
+    position: absolute;
+    top: 77.5%;
+    right: 52.5%;
+    color: rgba(0, 0, 0, 0.674);
+}
+.content_4{
+    color: rgba(0, 0, 0, 0.674);
+    position: absolute;
+    top: 85%;
+    font-size: 18px;
+    font-weight: 500;
+    right: 39%;
+}

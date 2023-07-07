@@ -1,0 +1,32 @@
+.section_8{
+    width: 100%;
+    /* height: 200px; */
+    padding: 50px;
+    box-sizing: border-box;
+    /* background-color: burlywood; */
+}
+.sub_8_1{
+    color: #9AE7B1;
+    font-weight: 600;
+    padding-bottom: 10px;
+    /* padding-top: 50px; */
+}
+.sub_8_2{
+    font-weight: 600;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.sub_8_3{
+    font-weight: 600;
+    margin-bottom: 110px;
+}
+.sub_8_4{
+        color: #9AE7B1;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+.sub_8_5{
+    font-weight: 600;
+    font-size: 30px;
+    padding-bottom: 20px;
+}

@@ -1,0 +1,65 @@
+
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.section_2{
+    width: 76%;
+    height: 750px;
+    /* background-color: aqua; */
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+}
+.section_2_1{
+    width: 50%;
+    height: 750px;
+    /* background-color: black; */
+}
+.section_2_2{
+    background-color: black;
+    background-image: url(https://preview.colorlib.com/theme/vineyard/images/about.jpg.webp);
+    width: 50%;
+    height: 750px;
+    background-size: cover;
+}
+.sec_sub_1{
+    height: 125px;
+    /* background-color: aqua; */
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.sub_1{
+    height: 125px;
+    width: 78%;
+    font-size: 20px;
+    padding-top:35px;
+    color: #A4A4A4;
+    /* background-color: brown; */
+}
+.sub_2{
+    height: 115px;
+    width: 22%;
+    border-radius: 100%;
+    padding-top: 46px;
+    font-size: 18px;
+    margin: 5px;
+    box-sizing: border-box;
+    color: white;
+    background-color: #AEE6BF;
+}
+.sec_sub_1:hover .sub_2{
+    background-color: white;
+    color: #AEE6BF;
+}
+.sec_sub_1:hover{
+    background-color: #AEE6BF;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom: 1px solid black;
+}
+.sec_sub_1:hover .sub_1{
+    color: black;
+}
